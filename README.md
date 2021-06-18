@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deb0naire, and I am a Computer Science major at Cornell University.
+- 👋 Hi, I’m @AtulyaL, and I am a Computer Science major at Cornell University.
 - 👀 I’m interested in coding and making my own projects.
 - 🌱 I’m currently learning Java and Python. I have taken classes on both.
 
